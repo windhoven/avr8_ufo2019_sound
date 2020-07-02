@@ -3,7 +3,7 @@
 # Ufo 2019 Sound sourcecode
 Arduino Nano 3.0 (Atmel Atmega328p) via Atmel Studio
 
-Deze code is gebruikt om Busch Ufo's om te bouwen met een RGB LED's: [link naar Youtube video](https://www.youtube.com/watch?v=s-pJU3wth_g).
+Deze code is gebruikt om Busch Ufo's om te bouwen met een RGB LED's: [link naar Youtube video](https://youtu.be/MQG5TQET5ow).
 
 De 2019 versie heeft ondersteuning om commando's te ontvangen via de UART. Standaard wisselen de kleuren op willekeurige momenten. Kleurwaardes zijn te zetten via commando's. Ook de keuze om de kleuren 'vast' te zetten.
 
